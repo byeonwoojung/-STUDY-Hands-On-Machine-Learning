@@ -1,4 +1,4 @@
-# -STUDY-Hands-On-Machine-Learning
+# (STUDY) Hands-On-Machine-Learning
 
 교재 : 오렐리앙 제롱, _Hands-On Machine Learning with Scikit-Learn Keras & TensorFlow(2판)_, 박해선, 한빛미디어.
 
